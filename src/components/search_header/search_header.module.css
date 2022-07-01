@@ -6,6 +6,14 @@
     color: white;
 }
 
+.title {
+    font-size: 18px;
+    margin-left: 1em;
+    margin-right: 1em;
+    vertical-align: middle;
+    line-height: 0.8;
+}
+
 .logo {
     display: flex;
     align-items: center;
